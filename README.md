@@ -2,7 +2,7 @@
 
 This repo contains some basic personal configurations for the best code editor there is - `neovim` - the One True Editor.
 
-[Treesitter and nvim code editor](.\nvim-treesitter.png)
+![Treesitter and nvim code editor](.\nvim-treesitter.png)
 
 Together with the configurations are some other packages to smoothen the development experience like `mason`, `lsp-zero`, `treesitter`, `telescope`, `harpoon` just to mention but a few. I used `packer` to manage the packages, though feel free to use your favourite plugin manager.
 
